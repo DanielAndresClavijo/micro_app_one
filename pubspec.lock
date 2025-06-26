@@ -45,8 +45,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: develop
-      resolved-ref: "4f19eefbbce1c76ff4c7e34034c4444052a5789b"
+      ref: main
+      resolved-ref: f0705d45e9bb6f67f5268106ca45aada25526de8
       url: "https://github.com/DanielAndresClavijo/common_ui_app.git"
     source: git
     version: "1.0.0"
