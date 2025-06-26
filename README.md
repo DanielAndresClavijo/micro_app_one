@@ -15,6 +15,11 @@ Este paquete exporta los siguientes componentes principales:
 - **`MicroAppOnePage()`**: El widget principal que contiene la UI y la lógica de esta microaplicación.
 - **Rutas y Páginas**: (Opcional) Define las rutas de navegación internas que esta microaplicación gestiona.
 
+## Repositorios relacionados
+
+- [parent-app](https://github.com/DanielAndresClavijo/parent-app)
+- [common_ui_app](https://github.com/DanielAndresClavijo/common_ui_app)
+
 ## Cómo Usar
 
 Para integrar esta microaplicación en la aplicación principal, añade la siguiente dependencia a su archivo `pubspec.yaml`:
